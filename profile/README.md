@@ -17,10 +17,11 @@
 
 ## About
 
-- I build **Discord bots** and the quiet automation that keeps a server running while nobody's watching.
-- I turn **visual novels into Russian** - translation and proofreading, currently *The Last Embrace* by NoX Productions.
-- I run **the backstage of Discord communities**: roles, permissions, supporter tiers, the whole circus.
-- Russian is native, English is my working one.
+- **Ceaseless Studio** is a two-person act: **Cease** ([@CeaselessStudio](https://github.com/CeaselessStudio)) and **PatMirt** ([@PatMirt](https://github.com/PatMirt)).
+- We build **Discord bots** and the quiet automation that keeps a server running while nobody's watching.
+- We turn **visual novels into Russian** - translation and proofreading, currently *The Last Embrace* by NoX Productions.
+- We run **the backstage of Discord communities**: roles, permissions, supporter tiers, the whole circus.
+- Russian is native, English is our working one.
 
 ## Stack
 
